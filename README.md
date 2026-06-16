@@ -1,9 +1,9 @@
 # VIPER-EYE
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/Tests-4%20passing-brightgreen.svg)](https://github.com/)
-[![Modular](https://img.shields.io/badge/Architecture-Modular-9cf.svg)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Tests](https://img.shields.io/badge/Tests-4%20passing-brightgreen)](https://github.com/)
+[![Architecture](https://img.shields.io/badge/Architecture-Modular-9cf)](https://github.com/)
 
 > A high-performance IP intelligence and reconnaissance platform with a modular architecture, developer-first workflow, and scalable reporting layer.
 
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Production-Ready-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-IP+Threat+Scanning-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Python%2C+Tkinter%2C+SQLite-00bcd4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-IP%20Threat%20Scanning-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Python%2C%20Tkinter%2C%20SQLite-00bcd4?style=flat-square" />
 </p>
 
 ## ✨ Why VIPER-EYE Stands Out
